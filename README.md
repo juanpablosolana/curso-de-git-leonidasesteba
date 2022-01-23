@@ -1,6 +1,8 @@
+
 # Repo del curso de Git
 
 Acá subo los archivos que necesito para el curso de Git
+
 
 ## Comenzando 🚀
 
@@ -102,4 +104,6 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
+
 ⌨️ con ❤️ por [Pablo Solana](https://pablosolana.dev) 😊
+
