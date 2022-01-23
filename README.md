@@ -1,1 +1,1 @@
-Vamos a crear un archivo readme.md
+Vamos a crear un archivo README.md bien cool
