@@ -104,10 +104,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-<<<<<<< HEAD
 ⌨️ con ❤️ por [Pablo Solana](https://pablosolana.dev) 😊
-=======
-
-⌨️ con ❤️ por [Pablo Solana](https://pablosolana.dev) 😊
-
->>>>>>> feature/A-265/Jaume
