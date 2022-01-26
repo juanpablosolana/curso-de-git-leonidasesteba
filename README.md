@@ -104,6 +104,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-
 ⌨️ con ❤️ por [Pablo Solana](https://pablosolana.dev) 😊
-
